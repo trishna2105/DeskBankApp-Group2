@@ -15,6 +15,4 @@ print(customer2.name)
 print(customer3.name)
 print(customer4.name)
 
-git config --global user.name "Yuni"
-git config --global user.email "yunihan26@gmail.com"
-git commit -m "Add customer data"
+
